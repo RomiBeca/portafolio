@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="720" viewBox="0 0 1200 720">
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#110f27"/><stop offset="1" stop-color="#2f1e53"/></linearGradient></defs>
+  <rect width="1200" height="720" fill="url(#bg)"/>
+  <text x="110" y="150" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="52" font-weight="700">Cachipún</text>
+  <text x="110" y="205" fill="#a6b4ff" font-family="Arial, Helvetica, sans-serif" font-size="28">Desafío evaluado en JavaScript</text>
+  <g transform="translate(220 410)">
+    <circle cx="0" cy="0" r="90" fill="#00d0ff" opacity="0.15"/>
+    <text x="-35" y="20" fill="#68ecff" font-family="Arial, Helvetica, sans-serif" font-size="80">✊</text>
+  </g>
+  <g transform="translate(560 410)">
+    <circle cx="0" cy="0" r="90" fill="#8af7aa" opacity="0.15"/>
+    <text x="-35" y="20" fill="#8af7aa" font-family="Arial, Helvetica, sans-serif" font-size="80">✋</text>
+  </g>
+  <g transform="translate(900 410)">
+    <circle cx="0" cy="0" r="90" fill="#ffd166" opacity="0.15"/>
+    <text x="-35" y="20" fill="#ffd166" font-family="Arial, Helvetica, sans-serif" font-size="80">✌</text>
+  </g>
+</svg>

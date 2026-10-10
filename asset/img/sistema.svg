@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="720" viewBox="0 0 1200 720">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#06121b"/><stop offset="1" stop-color="#0c2438"/></linearGradient>
+    <linearGradient id="card" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0f1f2f"/><stop offset="1" stop-color="#0a1521"/></linearGradient>
+  </defs>
+  <rect width="1200" height="720" fill="url(#bg)"/>
+  <rect x="70" y="70" width="1060" height="580" rx="26" fill="url(#card)" stroke="#1fe3ff" stroke-opacity="0.35"/>
+  <rect x="105" y="105" width="230" height="510" rx="18" fill="#0a1724"/>
+  <rect x="365" y="105" width="730" height="110" rx="18" fill="#0b1927"/>
+  <rect x="365" y="240" width="210" height="130" rx="18" fill="#102232"/>
+  <rect x="605" y="240" width="210" height="130" rx="18" fill="#102232"/>
+  <rect x="845" y="240" width="210" height="130" rx="18" fill="#102232"/>
+  <rect x="365" y="395" width="690" height="180" rx="18" fill="#0b1927"/>
+  <text x="137" y="160" fill="#d8f3ff" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="700">Panel</text>
+  <g fill="#73e7ff" font-family="Arial, Helvetica, sans-serif" font-size="20">
+    <text x="137" y="230">Inicio</text><text x="137" y="278">Usuarios</text><text x="137" y="326">Proyectos</text><text x="137" y="374">Reportes</text><text x="137" y="422">Configuración</text>
+  </g>
+  <text x="400" y="165" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="36" font-weight="700">Sistema de gestión interna</text>
+  <g fill="#ffffff" font-family="Arial, Helvetica, sans-serif">
+    <text x="405" y="285" font-size="19">Usuarios</text><text x="405" y="335" font-size="46" font-weight="700">24</text>
+    <text x="645" y="285" font-size="19">Proyectos</text><text x="645" y="335" font-size="46" font-weight="700">12</text>
+    <text x="885" y="285" font-size="19">Tareas</text><text x="885" y="335" font-size="46" font-weight="700">8</text>
+  </g>
+  <polyline points="410,530 490,500 565,520 640,458 720,485 805,420 885,440 980,385" fill="none" stroke="#1fe3ff" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <g fill="#1fe3ff"><circle cx="410" cy="530" r="7"/><circle cx="490" cy="500" r="7"/><circle cx="565" cy="520" r="7"/><circle cx="640" cy="458" r="7"/><circle cx="720" cy="485" r="7"/><circle cx="805" cy="420" r="7"/><circle cx="885" cy="440" r="7"/><circle cx="980" cy="385" r="7"/></g>
+</svg>
